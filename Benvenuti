@@ -1,0 +1,38 @@
+Benvenuti e grazie per aver scelto la scheda elettronica Raptor I progettata per applicazioni IoT.
+Questa piattaforma integra diverse componenti chiave per offrire una soluzione completa e versatile.
+
+Componenti Principali:
+
+ESP WROOM 32
+Microcontroller: Dual-core Tensilica LX6 a 240 MHz
+Connessione Wireless: Wi-Fi 802.11 b/g/n, Bluetooth 4.2 BLE
+Memoria: 520 KB SRAM, 4 MB Flash
+GPIO (General Purpose Input/Output): 36 pin GPIO per varie funzionalità
+MPU6050 (Giroscopio e Accelerometro)
+Giroscopio a 3 assi e Accelerometro a 3 assi
+Precisione Elevata: Fornisce dati accurati sulla rotazione e l'accelerazione
+Interfaccia I2C: Facilita l'integrazione con altri dispositivi
+DHT22 (Sensore di Temperatura e Umidità)
+Precisione Elevata: Misura temperatura con precisione di ±0.5°C e umidità con precisione di ±2%
+Ampio Range di Misurazione: Temperatura da -40°C a 80°C, Umidità dal 0% al 100%
+Interfaccia Digitale: Comunicazione semplice e veloce
+PCA9685 (Driver di Servomotori)
+Driver PWM a 16 Canali: Controlla fino a 16 servomotori indipendentemente
+Risoluzione PWM: 12-bit per una regolazione fine della velocità e della posizione
+Interfaccia I2C: Facilita il controllo e la configurazione
+Funzionalità Chiave
+
+Monitoraggio Ambientale: Il sensore DHT22 misura la temperatura e l'umidità circostanti.
+Orientamento e Movimento: Il MPU6050 rileva la rotazione e l'accelerazione, ideale per applicazioni di monitoraggio di movimenti.
+Controllo Motori e Attuatori: Grazie al PCA9685, è possibile controllare fino a 16 servomotori con precisione.
+Connessione Wireless: La presenza dell'ESP WROOM 32 consente la connessione IoT tramite Wi-Fi e Bluetooth, facilitando il monitoraggio e il controllo remoti.
+
+Applicazioni Potenziali
+
+Robotica: Controllo preciso di robot e droni.
+Automazione Domestica: Monitoraggio delle condizioni ambientali e controllo di dispositivi domestici.
+Progetti IoT Personalizzati: Sviluppo di soluzioni IoT su misura.
+
+La nostra scheda elettronica offre una combinazione potente di sensori e microcontroller per una vasta gamma di applicazioni. Con la sua flessibilità e versatilità, è la scelta ideale per progetti IoT avanzati e personalizzati.
+
+Grazie per la vostra attenzione! Siamo disponibili per rispondere a domande e discutere ulteriormente delle potenziali applicazioni della nostra piattaforma.
